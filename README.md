@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# Airgead Banking Accrued Interest
 
 <p>This project solved the problem of creating an application that allowed the user to view the results of and differences between establishing an account and the values as they built up over time. </p>
 
